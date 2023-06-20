@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFKcubeUI", "WPFKcubeUI\WPFKcubeUI.csproj", "{8AB568E4-2084-4EF8-B545-7F75ABEC70C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AB568E4-2084-4EF8-B545-7F75ABEC70C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AB568E4-2084-4EF8-B545-7F75ABEC70C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AB568E4-2084-4EF8-B545-7F75ABEC70C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AB568E4-2084-4EF8-B545-7F75ABEC70C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04B9DB58-9500-4D0D-9632-458D7A9167C7}
+	EndGlobalSection
+EndGlobal
