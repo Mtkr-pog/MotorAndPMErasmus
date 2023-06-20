@@ -88,7 +88,7 @@ namespace WPFKcubeUI
         public void BuildMotor()
         {
             //The line underneath can be commented if you are using a real motor instead of a simulated one
-            MotorSimulator.StartMotor("27000001");
+            //MotorSimulator.StartMotor("27000001");
 
             // This instructs the DeviceManager to build and maintain the list of
             // devices connected. We then print a list of device name strings called
